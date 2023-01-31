@@ -1,0 +1,13 @@
+/*All Thermostat Mode Buttons Adjust*/
+.thermostat .inline-block {font-size: 40px !important;}
+
+/*All Thermostat Button Resize*/
+.thermostat .pl-3 {font-size: 55px !important;}
+.thermostat .pr-3 {font-size: 55px !important;}
+
+/*All Thermostat Top Description Resize*/
+.thermostat .p-1 {font-size: 55px !important;}
+
+/*All Thermostat Bottom Description Resize*/
+.thermostat div.absolute.bottom-0.text-center.w-full {font-size: 55px !important;}
+
